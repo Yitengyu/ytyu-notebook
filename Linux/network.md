@@ -1,0 +1,6 @@
+## lsof
+
+```
+lsof -Pn -i4|grep LISTEN 
+```
+
