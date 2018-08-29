@@ -40,10 +40,9 @@
   - [ ] CSRF
   - [ ] XSS
 - [ ] Design Pattern
+- [ ] SEO
 
 
 ## Algorithm
 
 - [ ] KMP
-
-
