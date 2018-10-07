@@ -19,6 +19,7 @@
 - [ ] scope
 - [ ] event loop
 - [ ] ES6
+  - [ ] how does promise and await return ?
 
 
 ## Framworks
@@ -46,3 +47,4 @@
 ## Algorithm
 
 - [ ] KMP
+
