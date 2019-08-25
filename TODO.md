@@ -1,50 +1,9 @@
-## Networks
+### TODO
 
-- [ ] what happens if you enter a url and press Enter ?
-  - [ ] DNS
-  - [ ] Protocols (**HTTP**)
-  - [ ] Browser render
-
-
-
-## CSS
-
-- [ ] What is fundamental ?
-- [ ] How to Learn ?
-
-
-
-## JavaScript
-- [ ] prototype
-- [ ] scope
-- [ ] event loop
-- [ ] ES6
-  - [ ] how does promise and await return ?
-
-
-## Framworks
-- [x] modularization history
-- [ ] modern modularization
-  - [ ] browserify 
-  - [ ] webpack
-    - [ ] Introducton (Comparison)
-    - [ ] Loader, Plugin, Optimization
-- [ ] Vuejs
-  - [ ] Virtual DOM
-  - [ ] Basic Implementation
-  - [ ] Practice
-
-## Others
-
-- [ ] performance	optimize
-- [ ] Security
-  - [ ] CSRF
-  - [ ] XSS
-- [ ] Design Pattern
-- [ ] SEO
-
-
-## Algorithm
-
-- [ ] KMP
+1. 设计模式大白话
+2. babel (已经初步了解)
+3. 结构说明。
+4. 怎样在项目中应用ES6的有趣特性（需要注意的是，目前受限于ts）
+5. lodash性能调研
+6. 手撸promise
 
